@@ -20,7 +20,20 @@ My work blends **UI engineering** and **automation**, ensuring both great user e
 
 ### 🧰 Tech Toolbox  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,php,nodejs,mysql,mongodb,bootstrap,git,jenkins,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML" width="45" height="45"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS" width="45" height="45"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" width="45" height="45"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=react" title="React" alt="React" width="45" height="45"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=angular" title="Angular" alt="Angular" width="45" height="45"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=php" title="PHP" alt="PHP" width="45" height="45"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" width="45" height="45"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" width="45" height="45"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" width="45" height="45"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" alt="Bootstrap" width="45" height="45"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="45" height="45"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=jenkins" title="Jenkins" alt="Jenkins" width="45" height="45"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman" width="45" height="45"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" width="45" height="45"/>
 </p>
 
 ---
