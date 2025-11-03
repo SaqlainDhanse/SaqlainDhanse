@@ -43,11 +43,38 @@ My work blends **UI engineering** and **automation**, ensuring both great user e
 #### 🔹 [Admin Panel System](https://github.com/SaqlainDhanse/admin-panel-system)  
 A **full-stack admin dashboard** built with HTML, CSS, JavaScript, PHP, and MySQL — designed for seamless data management and responsive analytics.  
 
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" title="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" title="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" title="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" title="PHP" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" title="MySQL" />
+</p>
+
+---
+
 #### 🔹 [Daily Journal](https://github.com/SaqlainDhanse/daily-journal)  
 A **React-based daily journal app** to capture and organize your thoughts with a minimalist, elegant interface.  
 
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" title="React.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" title="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" title="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" title="Express.js" />
+</p>
+
+---
+
 #### 🔹 [Sarcastify](https://github.com/SaqlainDhanse/sarcastify)  
-A **Flask-powered sarcasm detection system** using advanced **machine learning** and NLP techniques to classify text with smart accuracy.  
+A **Flask-powered sarcasm detection system** using **machine learning** and NLP techniques to identify sarcasm with smart precision.  
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" title="Python" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" title="Flask" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" title="scikit-learn" />
+  <img src="https://img.shields.io/badge/NLTK-154734?style=flat&logo=python&logoColor=white" title="NLTK" />
+  <img src="https://img.shields.io/badge/Machine_Learning-102230?style=flat&logo=TensorFlow&logoColor=orange" title="Machine Learning" />
+</p>  
 
 ---
 
