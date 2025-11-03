@@ -61,11 +61,12 @@ Progressed from **AMXX Developer** to **Sr. Development Manager**, leading inter
 
 ---
 
-### 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaqlainDhanse&show_icons=true&theme=react" height="160" />
-  <img src="https://streak-stats.demolab.com/?user=SaqlainDhanse&theme=react" height="160" />
-</p>
+### 📈 Tech Highlights  
+- 🚀 4+ years of hands-on experience in **frontend and automation engineering**  
+- 🧩 Developed full-stack web applications using **HTML, CSS, JavaScript, PHP, and MySQL**  
+- 🤖 Built automation test suites using **Cypress** and **Selenium** for enterprise applications  
+- 🌐 Led web development and server administration for **UGC-Gaming**, managing 40K+ global users  
+- 💡 Strong background in UI/UX, CI/CD pipelines, and performance optimization  
 
 ---
 
