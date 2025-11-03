@@ -1,7 +1,9 @@
-# 👋 Hey there, I’m **Saqlain Dhanse**
-
-💻 **Software Engineer 2 | Frontend Development & Automation**  
-Currently building intuitive, high-performance interfaces for **Data Protection Software** at **Dell Technologies**.
+<!-- Profile Header -->
+<h1 align="center">👋 Hey there, I’m <strong>Saqlain Dhanse</strong></h1>
+<p align="center">
+  💻 <b>Software Engineer 2 | Frontend Development & Automation</b><br>
+  Currently building intuitive, high-performance interfaces for <b>Dell Technologies</b>
+</p>
 
 ---
 
@@ -16,16 +18,14 @@ My work blends **UI engineering** and **automation**, ensuring both great user e
 
 ---
 
-### 🛠️ Tech Toolbox  
-**Frontend:** HTML, CSS, JavaScript (React | Angular), Bootstrap  
-**Backend:** PHP, Node.js  
-**Database:** MySQL, MongoDB  
-**Automation:** Cypress, Selenium, Jenkins  
-**Tools & DevOps:** Git, VS Code, Postman, Jira  
+### 🧰 Tech Toolbox  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,php,nodejs,mysql,mongodb,bootstrap,git,jenkins,postman,vscode" />
+</p>
 
 ---
 
-### 📂 Selected Projects  
+### 📂 Featured Projects  
 #### 🔹 Admin Dashboard  
 A **full-stack admin panel** built with HTML, CSS, JavaScript, PHP, and MySQL — designed for smooth data management and responsive analytics.  
 [🔗 View Repository](#)
@@ -48,10 +48,26 @@ Progressed from **AMXX Developer** to **Sr. Development Manager**, leading inter
 
 ---
 
-### 📫 Let’s Connect  
-🌐 [LinkedIn](https://linkedin.com/in/saqlaindhanse)  
-💻 [GitHub](https://github.com/SaqlainDhanse)  
-📧 **saqlaindhanse@gmail.com**
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaqlainDhanse&show_icons=true&theme=react" height="160" />
+  <img src="https://streak-stats.demolab.com/?user=SaqlainDhanse&theme=react" height="160" />
+</p>
+
+---
+
+### 🤝 Connect With Me  
+<p align="center">
+  <a href="https://linkedin.com/in/saqlaindhanse" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/SaqlainDhanse" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:saqlaindhanse@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
