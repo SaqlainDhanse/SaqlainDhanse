@@ -63,10 +63,10 @@ Progressed from **AMXX Developer** to **Sr. Development Manager**, leading inter
 
 ### 📈 Tech Highlights  
 - 🚀 4+ years of hands-on experience in **frontend and automation engineering**  
-- 🧩 Developed full-stack web applications using **HTML, CSS, JavaScript, PHP, and MySQL**  
-- 🤖 Built automation test suites using **Cypress** and **Selenium** for enterprise applications  
+- 🧩 Developed full-stack web applications using **React**, **Angular**, **HTML**, **CSS**, **JavaScript**, **PHP**, and **MySQL**  
+- 🤖 Built automation test suites using **Cypress** and **Selenium** for enterprise-grade applications  
 - 🌐 Led web development and server administration for **UGC-Gaming**, managing 40K+ global users  
-- 💡 Strong background in UI/UX, CI/CD pipelines, and performance optimization  
+- 💡 Strong background in **UI/UX design**, **CI/CD pipelines**, and **performance optimization**
 
 ---
 
