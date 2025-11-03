@@ -39,13 +39,15 @@ My work blends **UI engineering** and **automation**, ensuring both great user e
 ---
 
 ### 📂 Featured Projects  
-#### 🔹 Admin Dashboard  
-A **full-stack admin panel** built with HTML, CSS, JavaScript, PHP, and MySQL — designed for smooth data management and responsive analytics.  
-[🔗 View Repository](#)
 
-#### 🔹 Daily Journal  
-A **React-based journal app** to capture and organize daily thoughts with an elegant interface.  
-[🔗 View Repository](#)
+#### 🔹 [Admin Panel System](https://github.com/SaqlainDhanse/admin-panel-system)  
+A **full-stack admin dashboard** built with HTML, CSS, JavaScript, PHP, and MySQL — designed for seamless data management and responsive analytics.  
+
+#### 🔹 [Daily Journal](https://github.com/SaqlainDhanse/daily-journal)  
+A **React-based daily journal app** to capture and organize your thoughts with a minimalist, elegant interface.  
+
+#### 🔹 [Sarcastify](https://github.com/SaqlainDhanse/sarcastify)  
+A **Flask-powered sarcasm detection system** using advanced **machine learning** and NLP techniques to classify text with smart accuracy.  
 
 ---
 
