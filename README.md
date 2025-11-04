@@ -20,47 +20,47 @@ My work blends **UI engineering** and **automation**, ensuring both great user e
 
 ### 🧰 Tech Toolbox  
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML" width="45" height="45"/>
-  </a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS" width="45" height="45"/>
-  </a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" width="45" height="45"/>
-  </a>&nbsp;
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" title="React" alt="React" width="45" height="45"/>
-  </a>&nbsp;
-  <a href="https://angular.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=angular" title="Angular" alt="Angular" width="45" height="45"/>
-  </a>&nbsp;
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=php" title="PHP" alt="PHP" width="45" height="45"/>
-  </a>&nbsp;
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" width="45" height="45"/>
-  </a>&nbsp;
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" width="45" height="45"/>
-  </a>&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" width="45" height="45"/>
-  </a>&nbsp;
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" alt="Bootstrap" width="45" height="45"/>
-  </a>&nbsp;
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="45" height="45"/>
-  </a>&nbsp;
-  <a href="https://www.jenkins.io/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=jenkins" title="Jenkins" alt="Jenkins" width="45" height="45"/>
-  </a>&nbsp;
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman" width="45" height="45"/>
-  </a>&nbsp;
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" width="45" height="45"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=html" title="HTML5" width="45" height="45"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=css" title="CSS3" width="45" height="45"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="45" height="45"/>
+  </a>
+  <a href="https://react.dev/" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=react" title="React" width="45" height="45"/>
+  </a>
+  <a href="https://angular.io/" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=angular" title="Angular" width="45" height="45"/>
+  </a>
+  <a href="https://www.php.net/" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=php" title="PHP" width="45" height="45"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" width="45" height="45"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" width="45" height="45"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" width="45" height="45"/>
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" width="45" height="45"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=git" title="Git" width="45" height="45"/>
+  </a>
+  <a href="https://www.jenkins.io/" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=jenkins" title="Jenkins" width="45" height="45"/>
+  </a>
+  <a href="https://www.postman.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=postman" title="Postman" width="45" height="45"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" style="text-decoration: none;">
+    <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" width="45" height="45"/>
   </a>
 </p>
 <p align="center" style="font-size:12px;">
