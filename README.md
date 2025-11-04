@@ -19,21 +19,12 @@ My work blends **UI engineering** and **automation**, ensuring both great user e
 ---
 
 ### 🧰 Tech Toolbox  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html" title="HTML5" alt="HTML" width="45" height="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=css" title="CSS3" alt="CSS" width="45" height="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" alt="JavaScript" width="45" height="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=react" title="React" alt="React" width="45" height="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=angular" title="Angular" alt="Angular" width="45" height="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=php" title="PHP" alt="PHP" width="45" height="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" alt="Node.js" width="45" height="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" alt="MySQL" width="45" height="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" width="45" height="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" alt="Bootstrap" width="45" height="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" width="45" height="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=jenkins" title="Jenkins" alt="Jenkins" width="45" height="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman" width="45" height="45"/>&nbsp;
-  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" alt="VS Code" width="45" height="45"/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,php,nodejs,mysql,mongodb,bootstrap,git,jenkins,postman,vscode" alt="Tech Stack" width="100%" style="max-width:400px;" />
+</div>
+
+<p align="center" style="font-size:12px;">
+  <i>Hover to view tooltips on desktop; tap icons for details.</i>
 </p>
 
 ---
@@ -43,12 +34,12 @@ My work blends **UI engineering** and **automation**, ensuring both great user e
 #### 🔹 [Admin Panel System](https://github.com/SaqlainDhanse/admin-panel-system)  
 A **full-stack admin dashboard** built with HTML, CSS, JavaScript, PHP, and MySQL — designed for seamless data management and responsive analytics.  
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" title="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" title="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" title="JavaScript" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" title="PHP" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" title="MySQL" />
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
 </p>
 
 ---
@@ -56,11 +47,11 @@ A **full-stack admin dashboard** built with HTML, CSS, JavaScript, PHP, and MySQ
 #### 🔹 [Daily Journal](https://github.com/SaqlainDhanse/daily-journal)  
 A **React-based daily journal app** to capture and organize your thoughts with a minimalist, elegant interface.  
 
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" title="React.js" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" title="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" title="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" title="Express.js" />
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" />
 </p>
 
 ---
@@ -68,12 +59,11 @@ A **React-based daily journal app** to capture and organize your thoughts with a
 #### 🔹 [Sarcastify](https://github.com/SaqlainDhanse/sarcastify)  
 A **Flask-powered sarcasm detection system** using **machine learning** and NLP techniques to identify sarcasm with smart precision.  
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" title="Python" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" title="Flask" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" title="scikit-learn" />
-  <img src="https://img.shields.io/badge/NLTK-154734?style=flat&logo=python&logoColor=white" title="NLTK" />
-  <img src="https://img.shields.io/badge/Machine_Learning-102230?style=flat&logo=TensorFlow&logoColor=orange" title="Machine Learning" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLTK-154734?style=flat&logo=python&logoColor=white" />
 </p>  
 
 ---
@@ -102,10 +92,10 @@ Progressed from **AMXX Developer** to **Sr. Development Manager**, leading inter
 ### 🤝 Connect With Me  
 <p align="center">
   <a href="https://linkedin.com/in/saqlaindhanse" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:saqlaindhanse@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
