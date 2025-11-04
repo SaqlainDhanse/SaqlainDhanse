@@ -46,7 +46,7 @@ My work blends **UI engineering** and **automation**, ensuring both great user e
 #### 🔹 [Admin Panel System](https://github.com/SaqlainDhanse/admin-panel-system)  
 A **full-stack admin dashboard** built with HTML, CSS, JavaScript, PHP, and MySQL — designed for seamless data management and responsive analytics.  
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" title="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" title="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" title="JavaScript" />
@@ -59,7 +59,7 @@ A **full-stack admin dashboard** built with HTML, CSS, JavaScript, PHP, and MySQ
 #### 🔹 [Daily Journal](https://github.com/SaqlainDhanse/daily-journal)  
 A **React-based daily journal app** to capture and organize your thoughts with a minimalist, elegant interface.  
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" title="React.js" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" title="JavaScript" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" title="Node.js" />
@@ -71,7 +71,7 @@ A **React-based daily journal app** to capture and organize your thoughts with a
 #### 🔹 [Sarcastify](https://github.com/SaqlainDhanse/sarcastify)  
 A **Flask-powered sarcasm detection system** using **machine learning** and NLP techniques to identify sarcasm with smart precision.  
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" title="Python" />
   <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" title="Flask" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" title="scikit-learn" />
