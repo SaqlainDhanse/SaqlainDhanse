@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">👋 Hey there, I’m <strong>Saqlain Dhanse</strong></h1>
 <p align="center">
-  💻 <b>Software Engineer 2 | Frontend Development & Automation</b><br>
+  💻 <b>Software Engineer | Frontend Development & Automation</b><br>
   Currently building intuitive, high-performance interfaces for <b>Dell Technologies</b>
 </p>
 
