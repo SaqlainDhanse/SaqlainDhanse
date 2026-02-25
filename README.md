@@ -44,6 +44,19 @@ My work blends **UI engineering** and **automation**, ensuring both great user e
 
 ### 📂 Featured Projects  
 
+#### 🔹 [CS2 Admin Panel](https://github.com/SaqlainDhanse/cs2-admin-panel)
+A **high-performance, unified management dashboard for Counter-Strike 2 communities**, featuring hierarchical RBAC, real-time server control via Pterodactyl API, and comprehensive audit logging with a React/Node.js stack.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" title="React.js" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white" title="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white" title="Express.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" title="JavaScript" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" title="MySQL" />
+</p>
+
+---
+
 #### 🔹 [Admin Panel System](https://github.com/SaqlainDhanse/admin-panel-system)  
 A **full-stack admin dashboard** built with HTML, CSS, JavaScript, PHP, and MySQL — designed for seamless data management and responsive analytics.  
 
