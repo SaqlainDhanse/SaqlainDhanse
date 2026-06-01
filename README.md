@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me  
-I’m a passionate full-stack engineer with **7+ years of combined work and volunteering experience**, specializing in **frontend development** with strong backend integration capabilities. My expertise spans **React, Angular, TypeScript, and modern JavaScript**, with deep experience in building scalable, user-centric applications.
+I’m a passionate full-stack engineer with **7+ years of combined work and volunteering experience**, specializing in **frontend development** with strong backend integration capabilities. My expertise spans **React, Angular, TypeScript, modern JavaScript, Java, Spring Boot and Python**, with deep experience in building scalable, user-centric applications.
 
 - 🎨 Expert in **React.js, Angular, TypeScript, and modern JavaScript**  
 - ⚙️ Strong backend skills in **Python, Java/J2EE, Node.js, and REST services**  
