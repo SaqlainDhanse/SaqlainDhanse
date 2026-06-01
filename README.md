@@ -115,7 +115,7 @@ Progressed through 8 roles across developer, admin, and management tracks. Led i
 
 ### 📈 Tech Highlights  
 - 🚀 **7+ years** of combined work and volunteering experience in full-stack development  
-- 🎨 Expert in **React.js, Angular, TypeScript, and modern JavaScript** with strong UX focus  
+- 🎨 Built **responsive, accessible UI components** serving 10K+ daily users with 30% code reduction   
 - 🏗️ Architected **modular UI components** reducing code duplication by 30% for 10K+ users  
 - 🐳 Implemented **Docker and Kubernetes deployment** reducing release cycles from 6 weeks to 4 weeks  
 - 📊 Optimized **frontend performance** achieving 40% faster page loads through lazy loading and code splitting  
