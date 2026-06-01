@@ -137,4 +137,4 @@ Progressed through 8 roles across developer, admin, and management tracks. Led i
 
 ---
 
-⭐ *“Code should not just look good — it should feel intuitive and perform flawlessly.”*
+⭐ *“Code should not just work — it should inspire confidence and elegance.”*
