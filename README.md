@@ -137,4 +137,4 @@ Progressed through 8 roles across developer, admin, and management tracks. Led i
 
 ---
 
-⭐ *“Frontend should not just look good — it should feel intuitive and perform flawlessly.”*
+⭐ *“Code should not just look good — it should feel intuitive and perform flawlessly.”*
